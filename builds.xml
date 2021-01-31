@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <builds>
+    	
+        <build name = "Doomzday - Simply Debrid">
+            <version>1.5</version>
+            <url>https://gitlab.com/doomzday/build5/raw/master/SIMPLY.zip</url>
+            <icon>https://doomzday.gitlab.io/doomzday/images/SIMPLY/icon.png</icon>
+            <fanart>https://doomzday.gitlab.io/doomzday/images/SIMPLY/fanart.jpg</fanart>
+            <description>A build for debrid users. Must have a premium account. Based on the Arctic Horizon skin. Build by BigKev.</description>
+        </build>
+        
+        
+    </builds>

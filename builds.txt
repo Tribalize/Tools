@@ -336,7 +336,7 @@ icon="https://the-hermit.com/images/wtf.png"
 fanart="https://the-hermit.com/images/wtf.jpg"
 preview="http://"
 adult="no"
-description="Xonfluence (Zon-fluence) With Widgets. - 219 mb zipped.Built on Nexus 20.0. New Add-Ons and some other under the hood changes, New background and newlayout. Updated 03-8-23. "
+description="Xonfluence Zonfluence With Widgets 219 mb zipped Built on Nexus 20.0. New Add-Ons and some other under the hood changes New background and newlayout Updated 03-8-23"
 
 name="[COLOR darkorange][B]..Gru's NEXUS Builds...[/COLOR][/B]"
 version="20.0"
